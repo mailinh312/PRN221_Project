@@ -1,0 +1,194 @@
+﻿@page "/BookManager"
+@using BookStore.Models;
+@using Microsoft.AspNetCore.Identity
+@model BookManagerModel
+
+@inject SignInManager<AppUser> SignInManager
+@inject UserManager<AppUser> UserManager
+
+
+<partial name="_SuccessNotification" model=@Model.StatusMessage />
+<script>
+    function submitForm() {
+        var form = document.getElementById("cateForm");
+        form.submit();
+    }
+</script>
+
+<script src="~/assets/js/main.js"></script>
+
+@{
+    var pagingmodel = new BookStore.Helpers.PagingModel()
+            {
+                currentPage = Model.CurrentPage,
+                countPage = Model.CountPages,
+                generateUrl = (int? p) => Url.Page("./BookManager", new { cid = Model.SelectedCid, search = Model.searchTitle, p = p })
+            };
+}
+<!-- HEADER DESKTOP-->
+
+<header class="header-desktop">
+    <div class="section__content section__content--p30">
+        <div class="container-fluid">
+            <div class="header-wrap">
+                <form class="form-header" asp-action="BookManagerModel" method="get">
+                    <input class="au-input au-input--xl" type="text" name="search" placeholder="Tìm kiếm sản phẩm" asp-for="@Model.searchTitle" />
+                    <button class="au-btn--submit" type="submit">
+                        <i class="zmdi zmdi-search"></i>
+                    </button>
+                </form>
+
+                <div class="header-button">
+                    @{
+                        if (SignInManager.IsSignedIn(User))
+                        {
+                            <div class="account-wrap">
+                                <div class="account-item clearfix js-item-menu">
+                                    <div class="image">
+                                        <img src="images/icon/avatar-01.jpg" alt="John Doe" />
+                                    </div>
+                                    <div class="content">
+                                        <a class="js-acc-btn" href="#">@UserManager.GetUserName(User)</a>
+                                    </div>
+                                    <div class="account-dropdown js-dropdown">
+                                        <div class="info clearfix">
+                                            <div class="image">
+                                                <a href="#">
+                                                    <img src="images/icon/avatar-01.jpg" alt="John Doe" />
+                                                </a>
+                                            </div>
+                                            <div class="content">
+                                                <h5 class="name">
+                                                    <a href="#">@UserManager.GetUserName(User)</a>
+                                                </h5>
+                                                <span class="email">johndoe@example.com</span>
+                                            </div>
+                                        </div>
+                                        <div class="account-dropdown__body">
+                                            <div class="account-dropdown__item">
+                                                <a href="#">
+                                                    <i class="zmdi zmdi-account"></i>Tài khoản
+                                                </a>
+                                            </div>
+                                            <div class="account-dropdown__item">
+                                                <a href="#">
+                                                    <i class="zmdi zmdi-settings"></i>Setting
+                                                </a>
+                                            </div>
+                                            <div class="account-dropdown__item">
+                                                <a href="#">
+                                                    <i class="zmdi zmdi-money-box"></i>Billing
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <div class="account-dropdown__footer">
+                                            <a href="/logout">
+                                                <i class="zmdi zmdi-power"></i>Đăng xuất
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+<!--END HEADER DESKTOP-->
+
+<div class="section__content section__content--p30">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="title-5 m-b-35">Quản lý sản phẩm</h1>
+                <div class="table-data__tool">
+                    <div class="table-data__tool-left">
+                        <form id="cateForm" asp-action="BookManagerModel" method="get">
+                            <div class="rs-select2--light rs-select2--md">
+
+                                <select class="js-select2" name="cid" onchange="submitForm()" asp-for="@Model.SelectedCid">
+                                    <option value="0">Tất cả thể loại</option>
+
+                                    @foreach (var item in Model.Categories)
+                                    {
+                                        <option value="@item.CategoryId">@item.CategoryName</option>
+                                    }
+                                </select>
+
+                                <div class="dropDownSelect2"></div>
+                            </div>
+                            <div class="rs-select2--light rs-select2--md">
+
+                                <select class="js-select2" name="aid" onchange="submitForm()" asp-for="@Model.SelectedAuthorId">
+                                    <option value="0">Tác giả</option>
+
+                                    @foreach (var item in Model.Authors)
+                                    {
+                                        <option value="@item.AuthorId">@item.AuthorName</option>
+                                    }
+                                </select>
+
+                                <div class="dropDownSelect2"></div>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="table-data__tool-right">
+                        <button class="au-btn au-btn-icon au-btn--green au-btn--small" style="background-color: aliceblue">
+                            <a asp-page="./AddProduct"> <i class="zmdi zmdi-plus"></i>Thêm sản phẩm</a>
+                        </button>
+
+                    </div>
+                </div>
+                <div class="table-responsive table--no-card m-b-30">
+                    <table class="table table-borderless table-striped table-earning">
+                        <thead>
+                            <tr>
+                                <th>ID</th>
+                                <th>Hình ảnh</th>
+                                <th>Tiêu đề</th>
+                                <th>Thể loại</th>
+                                <th>Tác giả</th>
+                                <th>Nhà xuất bản</th>
+                                <th>Ngày xuất bản</th>
+                                <th class="text-right">Giá</th>
+                                <th>Số lượng trong kho</th>
+                                <th>Hoạt động</th>
+                                <th>Tùy chọn</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var book in Model.Books)
+                            {
+                                <tr>
+                                    <td>@book.BookId</td>
+                                    <td> <img src="~/Images/@book.ImageUrl" /></td>
+                                    <td>@book.Title</td>
+                                    <td>@book.Category.CategoryName</td>
+                                    <td>@book.Author.AuthorName</td>
+                                    <td>@book.Publisher</td>
+                                    <td>@book.PublishDate</td>
+                                    <td class="text-right">@book.Price</td>
+                                    <td>@book.StockQuantity</td>
+                                    <td>@book.Active</td>
+                                    <td>
+                                        <div class="table-data-feature">
+                                            <button class="item" data-toggle="tooltip" data-placement="top" title="Send">
+                                                <i class="zmdi zmdi-mail-send"></i>
+                                            </button>
+                                            <button class="item" data-toggle="tooltip" data-placement="top" title="Edit">
+                                                <a asp-page="UpdateProduct" asp-route-id="@book.BookId"><i class="zmdi zmdi-edit"></i></a>
+                                            </button>
+                                        </div>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+                <partial name="_paging" model="@pagingmodel"></partial>
+            </div>
+        </div>
+    </div>
+</div>

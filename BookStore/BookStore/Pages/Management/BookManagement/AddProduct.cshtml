@@ -1,0 +1,192 @@
+﻿@page
+@using BookStore.Models;
+@using Microsoft.AspNetCore.Identity
+@model BookStore.Pages.Management.BookManagement.AddProductModel
+@{
+}
+
+@inject SignInManager<AppUser> SignInManager
+@inject UserManager<AppUser> UserManager
+
+<partial name="_FailNotification" model=@Model.StatusMessage />
+
+<!-- HEADER DESKTOP-->
+
+<header class="header-desktop">
+    <div class="section__content section__content--p30">
+        <div class="container-fluid">
+            <div class="header-wrap">
+                <form class="form-header" asp-action="BookManagerModel" method="get">
+                </form>
+
+                <div class="header-button">
+                    @{
+                        if (SignInManager.IsSignedIn(User))
+                        {
+                            <div class="account-wrap">
+                                <div class="account-item clearfix js-item-menu">
+                                    <div class="image">
+                                        <img src="images/icon/avatar-01.jpg" alt="John Doe" />
+                                    </div>
+                                    <div class="content">
+                                        <a class="js-acc-btn" href="#">@UserManager.GetUserName(User)</a>
+                                    </div>
+                                    <div class="account-dropdown js-dropdown">
+                                        <div class="info clearfix">
+                                            <div class="image">
+                                                <a href="#">
+                                                    <img src="images/icon/avatar-01.jpg" alt="John Doe" />
+                                                </a>
+                                            </div>
+                                            <div class="content">
+                                                <h5 class="name">
+                                                    <a href="#">@UserManager.GetUserName(User)</a>
+                                                </h5>
+                                                <span class="email">johndoe@example.com</span>
+                                            </div>
+                                        </div>
+                                        <div class="account-dropdown__body">
+                                            <div class="account-dropdown__item">
+                                                <a href="#">
+                                                    <i class="zmdi zmdi-account"></i>Account
+                                                </a>
+                                            </div>
+                                            <div class="account-dropdown__item">
+                                                <a href="#">
+                                                    <i class="zmdi zmdi-settings"></i>Setting
+                                                </a>
+                                            </div>
+                                            <div class="account-dropdown__item">
+                                                <a href="#">
+                                                    <i class="zmdi zmdi-money-box"></i>Billing
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <div class="account-dropdown__footer">
+                                            <a href="#">
+                                                <i class="zmdi zmdi-power"></i>Logout
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+<!--END HEADER DESKTOP-->
+
+<div class="section__content section__content--p30">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="title-5 m-b-35">Thêm sản phẩm</h1>
+
+                <div class="table-responsive table--no-card m-b-30">
+                    <form method="post" asp-action="AddProductModel" enctype="multipart/form-data">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <div class="form-group">
+                            <label asp-for="NewBook.Title" class="control-label"></label>
+                            <input asp-for="NewBook.Title" class="form-control" />
+                            <span asp-validation-for="NewBook.Title" class="text-danger"></span>
+                        </div>
+                        <br />
+                        <div class="form-group">
+                            <label asp-for="NewBook.CategoryId" class="control-label"></label>
+
+                            <select class="form-control" asp-for="NewBook.CategoryId">
+                                @foreach (var item in Model.Categories)
+                                {
+                                    <option value="@item.CategoryId">@item.CategoryName</option>
+                                }
+                            </select>
+                            <span asp-validation-for="NewBook.CategoryId" class="text-danger"></span>
+
+                        </div>
+                        <br />
+
+                        <div class="form-group">
+                            <label asp-for="NewBook.AuthorId" class="control-label"></label>
+
+                            <select class="form-control" asp-for="NewBook.AuthorId">
+                                @foreach (var item in Model.Authors)
+                                {
+                                    <option value="@item.AuthorId">@item.AuthorName</option>
+                                }
+                            </select>
+                            <span asp-validation-for="NewBook.AuthorId" class="text-danger"></span>
+
+                        </div>
+                        <br />
+
+                        <div class="form-group">
+                            <label asp-for="NewBook.Price" class="control-label"></label>
+                            <input asp-for="NewBook.Price" class="form-control" />
+                            <span asp-validation-for="NewBook.Price" class="text-danger"></span>
+                        </div>
+                        <br />
+
+                        <div class="form-group">
+                            <label asp-for="NewBook.Description" class="control-label"></label>
+                            <textarea id="summernote"
+                                      asp-for="NewBook.Description" class="form-control"></textarea>
+                            <span asp-validation-for="NewBook.Description" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="NewBook.Publisher" class="control-label"></label>
+                            <input asp-for="NewBook.Publisher" class="form-control" />
+                            <span asp-validation-for="NewBook.Publisher" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="NewBook.PublishDate" class="control-label"></label>
+                            <input type="date" asp-for="NewBook.PublishDate" class="form-control" />
+                            <span asp-validation-for="NewBook.PublishDate" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="FileUploads" class="control-label"></label>
+                            <input asp-for="FileUploads" class="form-control" />
+                            <span asp-validation-for="FileUploads" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="NewBook.StockQuantity" class="control-label"></label>
+                            <input asp-for="NewBook.StockQuantity" class="form-control" />
+                            <span asp-validation-for="NewBook.StockQuantity" class="text-danger"></span>
+                        </div>
+
+                        <br />
+
+                        <div class="form-group">
+                            <input type="submit" value="Thêm sản phẩm" class="btn btn-success btn-sm" />
+                            <a asp-page="./BookManager" class="btn btn-sm btn-primary">Quay lại danh sách sản phẩm</a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+</script>
+
+@section Scripts{
+    <script src="https://cdn.tiny.cloud/1/76gi9016qlfwmn8jiijfloc974a5ofre3p85pckmsmk0sj3y/tinymce/6/tinymce.min.js" referrerpolicy="origin"></script>
+
+    <!-- Place the following <script> and <textarea> tags your HTML's <body> -->
+    <script>
+        tinymce.init({
+            selector: 'textarea',
+            plugins: 'anchor autolink charmap codesample emoticons image link lists media searchreplace table visualblocks wordcount',
+            toolbar: 'undo redo | blocks fontfamily fontsize | bold italic underline strikethrough | link image media table | align lineheight | numlist bullist indent outdent | emoticons charmap | removeformat',
+        });
+    </script>
+}
+

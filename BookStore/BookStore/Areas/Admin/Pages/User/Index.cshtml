@@ -1,0 +1,178 @@
+﻿@page "/UserManager"
+@model BookStore.Areas.Admin.Pages.User.IndexModel
+@using BookStore.Models;
+@using Microsoft.AspNetCore.Identity
+
+
+@inject SignInManager<AppUser> SignInManager
+@inject UserManager<AppUser> UserManager
+
+
+<partial name="_SuccessNotification" model=@Model.StatusMessage />
+<script>
+    function submitForm() {
+        var form = document.getElementById("cateForm");
+        form.submit();
+    }
+</script>
+
+<script src="~/assets/js/main.js"></script>
+
+@{
+    var pagingmodel = new BookStore.Helpers.PagingModel()
+            {
+                currentPage = Model.CurrentPage,
+                countPage = Model.CountPages,
+                generateUrl = (int? p) => Url.Page("Index", new { search = Model.searchTitle, p = p })
+            };
+}
+<!-- HEADER DESKTOP-->
+
+<header class="header-desktop">
+    <div class="section__content section__content--p30">
+        <div class="container-fluid">
+            <div class="header-wrap">
+                <form class="form-header" asp-action="BookManagerModel" method="get">
+                    <input class="au-input au-input--xl" type="text" name="search" placeholder="Tìm kiếm tài khoản" asp-for="@Model.searchTitle" />
+                    <button class="au-btn--submit" type="submit">
+                        <i class="zmdi zmdi-search"></i>
+                    </button>
+                </form>
+
+                <div class="header-button">
+                    @{
+                        if (SignInManager.IsSignedIn(User))
+                        {
+                            <div class="account-wrap">
+                                <div class="account-item clearfix js-item-menu">
+                                    <div class="image">
+                                        <img src="images/icon/avatar-01.jpg" alt="John Doe" />
+                                    </div>
+                                    <div class="content">
+                                        <a class="js-acc-btn" href="#">@UserManager.GetUserName(User)</a>
+                                    </div>
+                                    <div class="account-dropdown js-dropdown">
+                                        <div class="info clearfix">
+                                            <div class="image">
+                                                <a href="#">
+                                                    <img src="images/icon/avatar-01.jpg" alt="John Doe" />
+                                                </a>
+                                            </div>
+                                            <div class="content">
+                                                <h5 class="name">
+                                                    <a href="#">@UserManager.GetUserName(User)</a>
+                                                </h5>
+                                                <span class="email">johndoe@example.com</span>
+                                            </div>
+                                        </div>
+                                        <div class="account-dropdown__body">
+                                            <div class="account-dropdown__item">
+                                                <a href="#">
+                                                    <i class="zmdi zmdi-account"></i>Tài khoản
+                                                </a>
+                                            </div>
+                                            <div class="account-dropdown__item">
+                                                <a href="#">
+                                                    <i class="zmdi zmdi-settings"></i>Setting
+                                                </a>
+                                            </div>
+                                            <div class="account-dropdown__item">
+                                                <a href="#">
+                                                    <i class="zmdi zmdi-money-box"></i>Billing
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <div class="account-dropdown__footer">
+                                            <a href="/logout">
+                                                <i class="zmdi zmdi-power"></i>Đăng xuất
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+<!--END HEADER DESKTOP-->
+
+<div class="section__content section__content--p30">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="title-5 m-b-35">Quản lý tài khoản</h1>
+                <div class="table-data__tool">
+                    <div class="table-data__tool-left">
+                        <form id="cateForm" asp-action="BookManagerModel" method="get">
+                            <div class="rs-select2--light rs-select2--md">
+                                <select class="js-select2" name="roleId" onchange="submitForm()" asp-for="@Model.SelectedRole">
+                                    <option value="all">Tất cả</option>
+
+                                    @foreach (var item in Model.Roles)
+                                    {
+                                        <option value="@item.Id">@item.Name</option>
+                                    }
+                                </select>
+                                <div class="dropDownSelect2"></div>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="table-data__tool-right">
+                        <button class="au-btn au-btn-icon au-btn--green au-btn--small" style="background-color: aliceblue">
+                            <a asp-page="./AddUser"> <i class="zmdi zmdi-plus"></i>Thêm tài khoản</a>
+                        </button>
+
+                    </div>
+                </div>
+                <div class="table-responsive table--no-card m-b-30">
+                    <table class="table table-borderless table-striped table-earning">
+                        <thead>
+                            <tr>
+                                <th>ID</th>
+                                <th>Tên đăng nhập</th>
+                                <th>Email</th>
+                                <th>Vai trò</th>
+                                <th></th>
+
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model.Users)
+                            {
+                                <tr>
+                                    <td>@item.Id</td>
+                                    <td>@item.UserName</td>
+                                    <td>@item.Email</td>
+                                    <td>
+                                        @if (String.IsNullOrEmpty(@item.RoleName))
+                                        {
+                                            <a style="margin: 3px" asp-page="AddRoleUser" asp-route-id="@item.Id">+ Thêm quyền</a>
+                                        }
+                                        else
+                                        {
+                                            <a style="margin: 3px" asp-page="AddRoleUser" asp-route-id="@item.Id">
+                                                @item.RoleName
+                                            </a>
+                                        }
+                                    </td>
+                                    <td>
+                                        <div>
+                                            <button class="item" data-toggle="tooltip" data-placement="top" title="Đặt mật khẩu" style="background-color: aliceblue; border-radius: 3px">
+                                                <a style="margin: 3px" asp-page="SetPassword" asp-route-id="@item.Id">Đặt mật khẩu</a>
+                                            </button>
+                                        </div>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+                <partial name="_paging" model="@pagingmodel"></partial>
+            </div>
+        </div>
+    </div>
+</div>
+
