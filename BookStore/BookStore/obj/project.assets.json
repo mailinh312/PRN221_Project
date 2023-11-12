@@ -11875,11 +11875,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Documents\\PRN221\\BookStore\\BookStore\\BookStore.csproj",
+      "projectUniqueName": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\BookStore.csproj",
       "projectName": "BookStore",
-      "projectPath": "E:\\Documents\\PRN221\\BookStore\\BookStore\\BookStore.csproj",
+      "projectPath": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\BookStore.csproj",
       "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-      "outputPath": "E:\\Documents\\PRN221\\BookStore\\BookStore\\obj\\",
+      "outputPath": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",

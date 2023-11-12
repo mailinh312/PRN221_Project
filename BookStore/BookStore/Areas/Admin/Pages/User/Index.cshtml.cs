@@ -1,4 +1,5 @@
 using BookStore.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
@@ -6,6 +7,7 @@ using System.Security.Cryptography.Xml;
 
 namespace BookStore.Areas.Admin.Pages.User
 {
+    [Authorize(Roles = "Administrator")]
     public class IndexModel : PageModel
     {
         private readonly UserManager<AppUser> _userManager;

@@ -1,9 +1,11 @@
 using BookStore.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace BookStore.Pages.Management.CategoryManagement
 {
+    [Authorize(Roles = "Administrator, Order staff, Stock manager")]
     public class CategoryManagerModel : PageModel
     {
         private readonly BookStoreDbContext _context;

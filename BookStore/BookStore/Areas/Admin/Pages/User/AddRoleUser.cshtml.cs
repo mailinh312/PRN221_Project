@@ -7,9 +7,11 @@ using System.ComponentModel.DataAnnotations;
 using Microsoft.EntityFrameworkCore;
 using System.ComponentModel;
 using System;
+using Microsoft.AspNetCore.Authorization;
 
 namespace BookStore.Areas.Admin.Pages.User
 {
+    [Authorize(Roles = "Administrator")]
     public class AddRoleUserModel : PageModel
     {
         private readonly UserManager<AppUser> _userManager;

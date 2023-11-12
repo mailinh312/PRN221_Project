@@ -1,0 +1,104 @@
+﻿@page
+@model BookStore.Pages.Store.CheckOutModel
+
+<!-- check out section -->
+<div class="checkout-section mt-150 mb-150">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8">
+                <div class="checkout-accordion-wrap">
+                    <div class="accordion" id="accordionExample">
+                        <div class="card single-accordion">
+                            <div class="card-header" id="headingOne">
+                                <h5 class="mb-0">
+                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                        Billing Address
+                                    </button>
+                                </h5>
+                            </div>
+
+                            <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+                                <div class="card-body">
+                                    <div class="billing-address-form">
+                                        <form asp-page="CheckOut" asp-page-handler="AddOrder" method="post">
+                                            <p><input type="text" asp-for="NewOrder.Receiver" value="@Model.currentUser.UserName" placeholder="Người nhận"></p>
+                                            <span asp-validation-for="NewOrder.Receiver" class="text-danger"></span>
+
+                                            <p><input type="text" asp-for="NewOrder.Address" value="@Model.currentUser.Address" placeholder="Địa chỉ"></p>
+                                            <span asp-validation-for="NewOrder.Address" class="text-danger"></span>
+
+                                            <p><input type="text" asp-for="NewOrder.Phone" placeholder="Số điện thoại" value="@Model.currentUser.PhoneNumber"></p>
+                                            <span asp-validation-for="NewOrder.Phone" class="text-danger"></span>
+
+                                            <p><textarea name="bill" id="bill" cols="30" rows="10" asp-for="NewOrder.Note" placeholder="Ghi chú"></textarea></p>
+                                            <button class="myButton" type="submit">Đặt hàng</button>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4">
+                <div class="order-details-wrap">
+                    <table class="order-details">
+                        <thead>
+                            <tr>
+                                <th>Your order Details</th>
+                                <th>Price</th>
+                            </tr>
+                        </thead>
+                        <tbody class="order-details-body">
+
+                            @foreach(var item in Model.cart)
+                            {
+                                <tr>
+                                    <td>@item.Book.Title</td>
+                                    <td>@item.Price</td>
+                                </tr>
+                            }
+                        </tbody>
+                        <tbody class="checkout-details">
+                            <tr>
+                                <td>Total</td>
+                                <td>@Model.Total</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+@{
+    await Html.RenderPartialAsync("_ValidationScriptsPartial");
+}
+<!-- end check out section -->
+
+<style>
+    /* CSS cho button */
+    .myButton {
+        display: inline-block;
+        padding: 10px 20px;
+        font-size: 16px;
+        text-align: center;
+        text-decoration: none;
+        cursor: pointer;
+        outline: none;
+        background-color: #F28123; /* Màu nền */
+        color: #fff; /* Màu chữ */
+        border: 1px solid #F28123; /* Đường viền */
+        border-radius: 5px; /* Độ bo tròn góc */
+        transition: background-color 0.3s; /* Hiệu ứng chuyển động màu nền */
+    }
+
+        /* CSS hover cho button */
+        .myButton:hover {
+            background-color: #212529; /* Màu nền khi hover */
+            color: #fff; /* Màu chữ khi hover */
+        }
+</style>
+

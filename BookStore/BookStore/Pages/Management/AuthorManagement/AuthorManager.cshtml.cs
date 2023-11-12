@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 namespace BookStore.Pages.Management.AuthorManagement
 {
 
-    [Authorize]
+    [Authorize (Roles = "Administrator, Order staff, Stock manager")]
     public class AuthorManagerModel : PageModel
     {
         private readonly BookStoreDbContext _context;

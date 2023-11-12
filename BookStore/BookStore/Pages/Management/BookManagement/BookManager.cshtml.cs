@@ -8,7 +8,7 @@ using System.Security.Cryptography;
 
 namespace BookStore.Pages.Management.BookManagement
 {
-    [Authorize]
+    [Authorize(Roles = "Administrator, Order staff, Stock manager")]
     public class BookManagerModel : PageModel
     {
         private readonly BookStoreDbContext _context;

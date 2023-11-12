@@ -134,7 +134,7 @@ namespace BookStore.Areas.Identity.Pages.Account
                     }
                     else
                     {
-                        returnUrl ??= Url.Content("/OrderManager");
+                        returnUrl ??= Url.Content("/Store/Index");
                     }
                     return LocalRedirect(returnUrl);
                 }

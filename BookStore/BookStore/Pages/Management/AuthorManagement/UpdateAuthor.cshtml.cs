@@ -1,9 +1,11 @@
 ﻿using BookStore.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace BookStore.Pages.Management.AuthorManagement
 {
+    [Authorize(Roles = "Administrator, Order staff, Stock manager")]
     public class UpdateAuthorModel : PageModel
     {
         private readonly BookStoreDbContext _context;

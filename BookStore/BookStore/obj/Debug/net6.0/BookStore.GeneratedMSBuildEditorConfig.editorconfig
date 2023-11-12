@@ -9,325 +9,349 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BookStore
 build_property.RootNamespace = BookStore
-build_property.ProjectDir = E:\Documents\PRN221\BookStore\BookStore\
+build_property.ProjectDir = E:\Documents\PRN221\PRN221_Project\BookStore\BookStore\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\Documents\PRN221\BookStore\BookStore
+build_property.MSBuildProjectDirectory = E:\Documents\PRN221\PRN221_Project\BookStore\BookStore
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Admin/Pages/Role/AddRole.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Admin/Pages/Role/AddRole.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcUm9sZVxBZGRSb2xlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Admin/Pages/Role/DeleteRole.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Admin/Pages/Role/DeleteRole.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcUm9sZVxEZWxldGVSb2xlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Admin/Pages/Role/Index.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Admin/Pages/Role/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcUm9sZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Admin/Pages/Role/UpdateRole.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Admin/Pages/Role/UpdateRole.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcUm9sZVxVcGRhdGVSb2xlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Admin/Pages/Role/_ViewImports.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Admin/Pages/Role/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcUm9sZVxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Admin/Pages/Role/_ViewStart.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Admin/Pages/Role/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcUm9sZVxfVmlld1N0YXJ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Admin/Pages/User/AddRoleUser.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Admin/Pages/User/AddRoleUser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcVXNlclxBZGRSb2xlVXNlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Admin/Pages/User/Index.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Admin/Pages/User/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcVXNlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Admin/Pages/User/SetPassword.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Admin/Pages/User/SetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcVXNlclxTZXRQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Admin/Pages/User/_ViewImports.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Admin/Pages/User/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcVXNlclxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Admin/Pages/User/_ViewStart.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Admin/Pages/User/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcVXNlclxfVmlld1N0YXJ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Identity/Pages/Account/AccessDenied.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Identity/Pages/Account/AccessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWxDaGFuZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Identity/Pages/Account/ExternalLogin.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Identity/Pages/Account/ExternalLogin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxFeHRlcm5hbExvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZENvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Identity/Pages/Account/Lockout.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Identity/Pages/Account/Lockout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2Nrb3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Identity/Pages/Account/Login.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Identity/Pages/Account/LoginWith2fa.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Identity/Pages/Account/LoginWith2fa.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbldpdGgyZmEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbldpdGhSZWNvdmVyeUNvZGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Identity/Pages/Account/Logout.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Identity/Pages/Account/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcQ2hhbmdlUGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRGVsZXRlUGVyc29uYWxEYXRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRGlzYWJsZTJmYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRG93bmxvYWRQZXJzb25hbERhdGEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Identity/Pages/Account/Manage/Email.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Identity/Pages/Account/Manage/Email.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRW5hYmxlQXV0aGVudGljYXRvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRXh0ZXJuYWxMb2dpbnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcR2VuZXJhdGVSZWNvdmVyeUNvZGVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Identity/Pages/Account/Manage/Index.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Identity/Pages/Account/Manage/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcUGVyc29uYWxEYXRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcUmVzZXRBdXRoZW50aWNhdG9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcU2V0UGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcU2hvd1JlY292ZXJ5Q29kZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcVHdvRmFjdG9yQXV0aGVudGljYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1N0YXR1c01lc3NhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Identity/Pages/Account/Register.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3RlckNvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNlbmRFbWFpbENvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Identity/Pages/Account/ResetPassword.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Identity/Pages/Account/ResetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkQ29uZmlybWF0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Identity/Pages/Account/_StatusMessage.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Identity/Pages/Account/_StatusMessage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfU3RhdHVzTWVzc2FnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Identity/Pages/Error.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Identity/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Identity/Pages/_ViewImports.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Areas/Identity/Pages/_ViewStart.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Pages/Error.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Pages/Index.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Pages/Management/AuthorManagement/AddAuthor.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Pages/Management/AuthorManagement/AddAuthor.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlbWVudFxBdXRob3JNYW5hZ2VtZW50XEFkZEF1dGhvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Pages/Management/AuthorManagement/AuthorManager.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Pages/Management/AuthorManagement/AuthorManager.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlbWVudFxBdXRob3JNYW5hZ2VtZW50XEF1dGhvck1hbmFnZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Pages/Management/AuthorManagement/UpdateAuthor.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Pages/Management/AuthorManagement/UpdateAuthor.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlbWVudFxBdXRob3JNYW5hZ2VtZW50XFVwZGF0ZUF1dGhvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Pages/Management/BookManagement/AddProduct.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Pages/Management/BookManagement/AddProduct.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlbWVudFxCb29rTWFuYWdlbWVudFxBZGRQcm9kdWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Pages/Management/BookManagement/BookManager.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Pages/Management/BookManagement/BookManager.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlbWVudFxCb29rTWFuYWdlbWVudFxCb29rTWFuYWdlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Pages/Management/BookManagement/UpdateProduct.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Pages/Management/BookManagement/UpdateProduct.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlbWVudFxCb29rTWFuYWdlbWVudFxVcGRhdGVQcm9kdWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Pages/Management/CategoryManagement/AddCategory.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Pages/Management/CategoryManagement/AddCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlbWVudFxDYXRlZ29yeU1hbmFnZW1lbnRcQWRkQ2F0ZWdvcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Pages/Management/CategoryManagement/CategoryManager.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Pages/Management/CategoryManagement/CategoryManager.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlbWVudFxDYXRlZ29yeU1hbmFnZW1lbnRcQ2F0ZWdvcnlNYW5hZ2VyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Pages/Management/CategoryManagement/UpdateCategory.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Pages/Management/CategoryManagement/UpdateCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlbWVudFxDYXRlZ29yeU1hbmFnZW1lbnRcVXBkYXRlQ2F0ZWdvcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Pages/Management/Dashboard/Index.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Pages/Management/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlbWVudFxEYXNoYm9hcmRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Pages/Management/OrderManagement/DetailOrder.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Pages/Management/OrderManagement/DetailOrder.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlbWVudFxPcmRlck1hbmFnZW1lbnRcRGV0YWlsT3JkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Pages/Management/OrderManagement/OrderManager.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Pages/Management/OrderManagement/OrderManager.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlbWVudFxPcmRlck1hbmFnZW1lbnRcT3JkZXJNYW5hZ2VyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Pages/Management/_ViewImports.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Pages/Management/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlbWVudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Pages/Management/_ViewStart.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Pages/Management/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlbWVudFxfVmlld1N0YXJ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Pages/Privacy.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Pages/Shared/_FailNotification.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Pages/Shared/_FailNotification.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9GYWlsTm90aWZpY2F0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Pages/Shared/_LayoutAdmin.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Pages/Shared/_LayoutAdmin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Pages/Shared/_LayoutStore.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Pages/Shared/_LayoutIdentity.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXRJZGVudGl0eS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Pages/Shared/_LayoutStore.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXRTdG9yZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Pages/Shared/_paging.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Pages/Shared/_paging.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9wYWdpbmcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Pages/Shared/_SuccessNotification.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Pages/Shared/_SuccessNotification.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9TdWNjZXNzTm90aWZpY2F0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Pages/Store/_ViewImports.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Pages/Store/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RvcmVcQ2FydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Pages/Store/CheckOut.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RvcmVcQ2hlY2tPdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Pages/Store/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RvcmVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Pages/Store/ProductDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RvcmVcUHJvZHVjdERldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Pages/Store/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RvcmVcUHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Pages/Store/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RvcmVcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Pages/Store/_ViewStart.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Pages/Store/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RvcmVcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Pages/_ViewImports.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Pages/_ViewStart.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Documents/PRN221/BookStore/BookStore/Pages/Shared/_Layout.cshtml]
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ci5z70chxj

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wOvU6Q/ie56mSdVKN33akX9fR3+oZqOIqySIVkDXNr6dvfn0TEnrjrkWIT7A0Xr0O5rE7J/avuAoCVvRdHkcKw==",
+  "dgSpecHash": "5SmsMPR0yPOcSoGOBtwQD7ONpsglhGBrY9Qf9Pm0FC4x4XJ7qFv/p5T6aWZQVvNaeZMt0tD9fxQ7Ycy3c4eMTQ==",
   "success": true,
-  "projectFilePath": "E:\\Documents\\PRN221\\BookStore\\BookStore\\BookStore.csproj",
+  "projectFilePath": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\BookStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dell\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\entityframework\\6.4.0\\entityframework.6.4.0.nupkg.sha512",

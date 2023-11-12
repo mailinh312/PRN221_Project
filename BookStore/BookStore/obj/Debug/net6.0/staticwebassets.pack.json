@@ -1,0 +1,2201 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BookStore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BookStore.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\AssetsForShop\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\AssetsForShop\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\AssetsForShop\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\AssetsForShop\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\AssetsForShop\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\AssetsForShop\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\AssetsForShop\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\AssetsForShop\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\AssetsForShop\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\AssetsForShop\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\AssetsForShop\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\AssetsForShop\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\AssetsForShop\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\AssetsForShop\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\AssetsForShop\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\AssetsForShop\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\AssetsForShop\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\AssetsForShop\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\AssetsForShop\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\AssetsForShop\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\AssetsForShop\\css\\all.min.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\css\\animate.css",
+      "PackagePath": "staticwebassets\\AssetsForShop\\css\\animate.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\AssetsForShop\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\css\\main.css",
+      "PackagePath": "staticwebassets\\AssetsForShop\\css\\main.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\css\\meanmenu.min.css",
+      "PackagePath": "staticwebassets\\AssetsForShop\\css\\meanmenu.min.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\AssetsForShop\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\AssetsForShop\\css\\responsive.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\css\\scss\\base\\_mixins.scss",
+      "PackagePath": "staticwebassets\\AssetsForShop\\css\\scss\\base\\_mixins.scss"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\css\\scss\\base\\_typography.scss",
+      "PackagePath": "staticwebassets\\AssetsForShop\\css\\scss\\base\\_typography.scss"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\css\\scss\\base\\_variables.scss",
+      "PackagePath": "staticwebassets\\AssetsForShop\\css\\scss\\base\\_variables.scss"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\css\\scss\\common\\_common.scss",
+      "PackagePath": "staticwebassets\\AssetsForShop\\css\\scss\\common\\_common.scss"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\css\\scss\\common\\_footer.scss",
+      "PackagePath": "staticwebassets\\AssetsForShop\\css\\scss\\common\\_footer.scss"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\css\\scss\\common\\_header.scss",
+      "PackagePath": "staticwebassets\\AssetsForShop\\css\\scss\\common\\_header.scss"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\css\\scss\\common\\_hover.scss",
+      "PackagePath": "staticwebassets\\AssetsForShop\\css\\scss\\common\\_hover.scss"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\css\\scss\\main.scss",
+      "PackagePath": "staticwebassets\\AssetsForShop\\css\\scss\\main.scss"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\css\\scss\\pages\\_404.css",
+      "PackagePath": "staticwebassets\\AssetsForShop\\css\\scss\\pages\\_404.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\css\\scss\\pages\\_404.scss",
+      "PackagePath": "staticwebassets\\AssetsForShop\\css\\scss\\pages\\_404.scss"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\css\\scss\\pages\\_about.scss",
+      "PackagePath": "staticwebassets\\AssetsForShop\\css\\scss\\pages\\_about.scss"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\css\\scss\\pages\\_contact.scss",
+      "PackagePath": "staticwebassets\\AssetsForShop\\css\\scss\\pages\\_contact.scss"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\css\\scss\\pages\\_shop.scss",
+      "PackagePath": "staticwebassets\\AssetsForShop\\css\\scss\\pages\\_shop.scss"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\css\\scss\\prepros-6.config",
+      "PackagePath": "staticwebassets\\AssetsForShop\\css\\scss\\prepros-6.config"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\css\\scss\\sections\\_about.scss",
+      "PackagePath": "staticwebassets\\AssetsForShop\\css\\scss\\sections\\_about.scss"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\css\\scss\\sections\\_cart-banner.scss",
+      "PackagePath": "staticwebassets\\AssetsForShop\\css\\scss\\sections\\_cart-banner.scss"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\css\\scss\\sections\\_hero.scss",
+      "PackagePath": "staticwebassets\\AssetsForShop\\css\\scss\\sections\\_hero.scss"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\css\\scss\\sections\\_list.scss",
+      "PackagePath": "staticwebassets\\AssetsForShop\\css\\scss\\sections\\_list.scss"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\css\\scss\\sections\\_news.scss",
+      "PackagePath": "staticwebassets\\AssetsForShop\\css\\scss\\sections\\_news.scss"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\css\\scss\\sections\\_shop-banner.scss",
+      "PackagePath": "staticwebassets\\AssetsForShop\\css\\scss\\sections\\_shop-banner.scss"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\css\\scss\\sections\\_testimonials.scss",
+      "PackagePath": "staticwebassets\\AssetsForShop\\css\\scss\\sections\\_testimonials.scss"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\AssetsForShop\\img\\1.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\img\\a.jpg",
+      "PackagePath": "staticwebassets\\AssetsForShop\\img\\a.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\img\\abt.jpg",
+      "PackagePath": "staticwebassets\\AssetsForShop\\img\\abt.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\img\\anhbia.jpg",
+      "PackagePath": "staticwebassets\\AssetsForShop\\img\\anhbia.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\img\\avaters\\avatar1.png",
+      "PackagePath": "staticwebassets\\AssetsForShop\\img\\avaters\\avatar1.png"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\img\\avaters\\avatar2.png",
+      "PackagePath": "staticwebassets\\AssetsForShop\\img\\avaters\\avatar2.png"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\img\\avaters\\avatar3.png",
+      "PackagePath": "staticwebassets\\AssetsForShop\\img\\avaters\\avatar3.png"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\img\\breadcrumb-bg.jpg",
+      "PackagePath": "staticwebassets\\AssetsForShop\\img\\breadcrumb-bg.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\img\\company-logos\\1.png",
+      "PackagePath": "staticwebassets\\AssetsForShop\\img\\company-logos\\1.png"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\img\\company-logos\\2.png",
+      "PackagePath": "staticwebassets\\AssetsForShop\\img\\company-logos\\2.png"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\img\\company-logos\\3.png",
+      "PackagePath": "staticwebassets\\AssetsForShop\\img\\company-logos\\3.png"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\img\\company-logos\\4.png",
+      "PackagePath": "staticwebassets\\AssetsForShop\\img\\company-logos\\4.png"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\img\\company-logos\\5.png",
+      "PackagePath": "staticwebassets\\AssetsForShop\\img\\company-logos\\5.png"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\img\\dd.jpg",
+      "PackagePath": "staticwebassets\\AssetsForShop\\img\\dd.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\AssetsForShop\\img\\favicon.png"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\img\\feature-bg.jpg",
+      "PackagePath": "staticwebassets\\AssetsForShop\\img\\feature-bg.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\img\\hero-bg-2.jpg",
+      "PackagePath": "staticwebassets\\AssetsForShop\\img\\hero-bg-2.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\img\\hero-bg-3.jpg",
+      "PackagePath": "staticwebassets\\AssetsForShop\\img\\hero-bg-3.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\img\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\AssetsForShop\\img\\hero-bg.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\img\\homepage-bg-pattern.png",
+      "PackagePath": "staticwebassets\\AssetsForShop\\img\\homepage-bg-pattern.png"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\img\\latest-news\\news-bg-1.jpg",
+      "PackagePath": "staticwebassets\\AssetsForShop\\img\\latest-news\\news-bg-1.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\img\\latest-news\\news-bg-2.jpg",
+      "PackagePath": "staticwebassets\\AssetsForShop\\img\\latest-news\\news-bg-2.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\img\\latest-news\\news-bg-3.jpg",
+      "PackagePath": "staticwebassets\\AssetsForShop\\img\\latest-news\\news-bg-3.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\img\\latest-news\\news-bg-4.jpg",
+      "PackagePath": "staticwebassets\\AssetsForShop\\img\\latest-news\\news-bg-4.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\img\\latest-news\\news-bg-5.jpg",
+      "PackagePath": "staticwebassets\\AssetsForShop\\img\\latest-news\\news-bg-5.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\img\\latest-news\\news-bg-6.jpg",
+      "PackagePath": "staticwebassets\\AssetsForShop\\img\\latest-news\\news-bg-6.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\img\\logostore.png",
+      "PackagePath": "staticwebassets\\AssetsForShop\\img\\logostore.png"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\img\\products\\product-img-1.jpg",
+      "PackagePath": "staticwebassets\\AssetsForShop\\img\\products\\product-img-1.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\img\\products\\product-img-2.jpg",
+      "PackagePath": "staticwebassets\\AssetsForShop\\img\\products\\product-img-2.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\img\\products\\product-img-3.jpg",
+      "PackagePath": "staticwebassets\\AssetsForShop\\img\\products\\product-img-3.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\img\\products\\product-img-4.jpg",
+      "PackagePath": "staticwebassets\\AssetsForShop\\img\\products\\product-img-4.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\img\\products\\product-img-5.jpg",
+      "PackagePath": "staticwebassets\\AssetsForShop\\img\\products\\product-img-5.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\img\\products\\product-img-6.jpg",
+      "PackagePath": "staticwebassets\\AssetsForShop\\img\\products\\product-img-6.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\img\\team\\team-1.jpg",
+      "PackagePath": "staticwebassets\\AssetsForShop\\img\\team\\team-1.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\img\\team\\team-2.jpg",
+      "PackagePath": "staticwebassets\\AssetsForShop\\img\\team\\team-2.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\img\\team\\team-3.jpg",
+      "PackagePath": "staticwebassets\\AssetsForShop\\img\\team\\team-3.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\js\\form-validate.js",
+      "PackagePath": "staticwebassets\\AssetsForShop\\js\\form-validate.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\js\\jquery-1.11.3.min.js",
+      "PackagePath": "staticwebassets\\AssetsForShop\\js\\jquery-1.11.3.min.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\js\\jquery.countdown.js",
+      "PackagePath": "staticwebassets\\AssetsForShop\\js\\jquery.countdown.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\js\\jquery.isotope-3.0.6.min.js",
+      "PackagePath": "staticwebassets\\AssetsForShop\\js\\jquery.isotope-3.0.6.min.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\AssetsForShop\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\js\\jquery.meanmenu.min.js",
+      "PackagePath": "staticwebassets\\AssetsForShop\\js\\jquery.meanmenu.min.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\js\\main.js",
+      "PackagePath": "staticwebassets\\AssetsForShop\\js\\main.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\AssetsForShop\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\js\\sticker.js",
+      "PackagePath": "staticwebassets\\AssetsForShop\\js\\sticker.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\js\\waypoints.js",
+      "PackagePath": "staticwebassets\\AssetsForShop\\js\\waypoints.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\AssetsForShop\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\webfonts\\fa-brands-400.eot_",
+      "PackagePath": "staticwebassets\\AssetsForShop\\webfonts\\fa-brands-400.eot_"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\AssetsForShop\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\AssetsForShop\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\AssetsForShop\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\AssetsForShop\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\AssetsForShop\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\webfonts\\fa-regular-400.eot_",
+      "PackagePath": "staticwebassets\\AssetsForShop\\webfonts\\fa-regular-400.eot_"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\AssetsForShop\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\AssetsForShop\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\AssetsForShop\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\AssetsForShop\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\AssetsForShop\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\webfonts\\fa-solid-900.eot_",
+      "PackagePath": "staticwebassets\\AssetsForShop\\webfonts\\fa-solid-900.eot_"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\AssetsForShop\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\AssetsForShop\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\AssetsForShop\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\AssetsForShop\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\AssetsForShop\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\325481532_5844128622319023_5659837953065521414_n.jpg",
+      "PackagePath": "staticwebassets\\Images\\325481532_5844128622319023_5659837953065521414_n.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\Hanako - Thiếu Nữ Mang Mặt Nạ Kịch Noh - Tập 6.jpg",
+      "PackagePath": "staticwebassets\\Images\\Hanako - Thiếu Nữ Mang Mặt Nạ Kịch Noh - Tập 6.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\Item 3-1.png.png",
+      "PackagePath": "staticwebassets\\Images\\Item 3-1.png.png"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_1.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_1.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_10.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_10.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_11.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_11.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_12.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_12.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_13.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_13.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_14.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_14.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_15.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_15.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_16.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_16.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_17.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_17.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_18.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_18.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_19.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_19.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_2.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_2.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_20.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_20.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_21.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_21.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_22.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_22.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_23.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_23.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_24.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_24.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_3.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_3.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_32.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_32.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_33.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_33.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_34.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_34.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_35.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_35.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_36.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_36.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_37.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_37.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_38.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_38.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_39.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_39.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_4.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_4.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_40.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_40.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_41.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_41.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_42.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_42.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_43.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_43.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_44.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_44.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_45.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_45.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_46.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_46.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_47.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_47.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_48.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_48.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_49.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_49.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_5.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_5.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_50.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_50.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_51.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_51.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_52.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_52.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_53.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_53.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_54.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_54.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_55.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_55.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_56.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_56.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_57.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_57.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_58.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_58.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_59.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_59.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_6.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_6.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_60.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_60.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_61.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_61.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_62.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_62.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_63.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_63.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_65.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_65.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_66.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_66.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_67.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_67.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_68.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_68.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_7.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_7.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_8.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_8.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_9.jpg",
+      "PackagePath": "staticwebassets\\Images\\book_9.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\item_projectile.png",
+      "PackagePath": "staticwebassets\\Images\\item_projectile.png"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\—Pngtree—elephant_6086663.png",
+      "PackagePath": "staticwebassets\\Images\\—Pngtree—elephant_6086663.png"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\css\\bootstrap-datetimepicker.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-datetimepicker.min.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\css\\font-face.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-face.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\css\\theme.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-100.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-100.eot"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-100.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-100.svg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-100.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-100.ttf"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-100.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-100.woff"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-100.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-100.woff2"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-100italic.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-100italic.eot"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-100italic.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-100italic.svg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-100italic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-100italic.ttf"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-100italic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-100italic.woff"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-100italic.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-100italic.woff2"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-200.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-200.eot"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-200.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-200.svg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-200.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-200.ttf"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-200.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-200.woff"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-200.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-200.woff2"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-200italic.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-200italic.eot"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-200italic.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-200italic.svg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-200italic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-200italic.ttf"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-200italic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-200italic.woff"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-200italic.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-200italic.woff2"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-300.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-300.eot"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-300.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-300.svg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-300.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-300.ttf"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-300.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-300.woff"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-300.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-300.woff2"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-300italic.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-300italic.eot"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-300italic.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-300italic.svg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-300italic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-300italic.ttf"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-300italic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-300italic.woff"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-300italic.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-300italic.woff2"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-500.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-500.eot"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-500.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-500.svg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-500.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-500.ttf"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-500.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-500.woff"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-500.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-500.woff2"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-500italic.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-500italic.eot"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-500italic.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-500italic.svg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-500italic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-500italic.ttf"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-500italic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-500italic.woff"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-500italic.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-500italic.woff2"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-600.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-600.eot"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-600.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-600.svg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-600.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-600.ttf"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-600.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-600.woff"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-600.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-600.woff2"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-600italic.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-600italic.eot"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-600italic.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-600italic.svg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-600italic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-600italic.ttf"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-600italic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-600italic.woff"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-600italic.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-600italic.woff2"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-700.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-700.eot"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-700.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-700.svg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-700.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-700.ttf"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-700.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-700.woff"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-700.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-700.woff2"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-700italic.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-700italic.eot"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-700italic.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-700italic.svg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-700italic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-700italic.ttf"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-700italic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-700italic.woff"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-700italic.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-700italic.woff2"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-800.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-800.eot"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-800.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-800.svg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-800.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-800.ttf"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-800.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-800.woff"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-800.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-800.woff2"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-800italic.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-800italic.eot"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-800italic.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-800italic.svg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-800italic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-800italic.ttf"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-800italic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-800italic.woff"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-800italic.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-800italic.woff2"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-900.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-900.eot"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-900.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-900.svg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-900.ttf"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-900.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-900.woff"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-900.woff2"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-900italic.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-900italic.eot"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-900italic.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-900italic.svg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-900italic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-900italic.ttf"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-900italic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-900italic.woff"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-900italic.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-900italic.woff2"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-italic.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-italic.eot"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-italic.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-italic.svg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-italic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-italic.ttf"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-italic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-italic.woff"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-italic.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-italic.woff2"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-regular.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-regular.eot"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-regular.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-regular.svg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-regular.ttf"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-regular.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-regular.woff"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\fonts\\poppins\\poppins-v5-latin-regular.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\poppins\\poppins-v5-latin-regular.woff2"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\images\\bg-title-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg-title-01.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\images\\bg-title-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg-title-02.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\images\\icon\\Untitled-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\Untitled-1.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\images\\icon\\avatar-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\avatar-01.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\images\\icon\\avatar-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\avatar-02.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\images\\icon\\avatar-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\avatar-03.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\images\\icon\\avatar-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\avatar-04.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\images\\icon\\avatar-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\avatar-05.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\images\\icon\\avatar-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\avatar-06.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\images\\icon\\avatar-big-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\avatar-big-01.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\images\\icon\\logo-blue.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\logo-blue.png"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\images\\icon\\logo-mini.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\logo-mini.png"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\images\\icon\\logo-white.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\logo-white.png"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\images\\icon\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\logo.png"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\js\\bootstrap-datetimepicker.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap-datetimepicker.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\js\\moment.js",
+      "PackagePath": "staticwebassets\\assets\\js\\moment.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\media\\9606031aabebde32fa96edeff071a132.jpg",
+      "PackagePath": "staticwebassets\\assets\\media\\9606031aabebde32fa96edeff071a132.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\animsition\\animsition.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\animsition\\animsition.min.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\animsition\\animsition.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\animsition\\animsition.min.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\bootstrap-4.1\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-4.1\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\bootstrap-4.1\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-4.1\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\bootstrap-4.1\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-4.1\\popper.min.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\bootstrap-progressbar\\bootstrap-progressbar-3.3.4.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-progressbar\\bootstrap-progressbar-3.3.4.min.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\bootstrap-progressbar\\bootstrap-progressbar.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-progressbar\\bootstrap-progressbar.min.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\chartjs\\Chart.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chartjs\\Chart.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\circle-progress\\circle-progress.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\circle-progress\\circle-progress.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\circle-progress\\circle-progress.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\circle-progress\\circle-progress.min.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\countdown\\countdowntime.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\countdown\\countdowntime.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\countdown\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\countdown\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\countdown\\moment-timezone-with-data.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\countdown\\moment-timezone-with-data.min.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\countdown\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\countdown\\moment-timezone.min.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\countdown\\moment.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\countdown\\moment.min.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\counter-up\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\counter-up\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\counter-up\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\counter-up\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\counter-up\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\counter-up\\waypoints.min.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\css-hamburgers\\hamburgers.min.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\font-awesome-4.7\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome-4.7\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\font-awesome-4.7\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome-4.7\\css\\font-awesome.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\font-awesome-4.7\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome-4.7\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\font-awesome-4.7\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome-4.7\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\font-awesome-5\\css\\fontawesome-all.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome-5\\css\\fontawesome-all.min.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\font-awesome-5\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome-5\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\font-awesome-5\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome-5\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\font-awesome-5\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome-5\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\font-awesome-5\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome-5\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\font-awesome-5\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome-5\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\font-awesome-5\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome-5\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\font-awesome-5\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome-5\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\font-awesome-5\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome-5\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\font-awesome-5\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome-5\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\font-awesome-5\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome-5\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\font-awesome-5\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome-5\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\font-awesome-5\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome-5\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\font-awesome-5\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome-5\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\font-awesome-5\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome-5\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\font-awesome-5\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome-5\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\CHANGELOG.txt",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\CHANGELOG.txt"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\CONTRIBUTING.txt",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\CONTRIBUTING.txt"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\README.txt",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\README.txt"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\fullcalendar.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\fullcalendar.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\fullcalendar.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\fullcalendar.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\fullcalendar.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\fullcalendar.min.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\fullcalendar.min.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\fullcalendar.print.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\fullcalendar.print.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\fullcalendar.print.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\fullcalendar.print.min.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\gcal.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\gcal.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\gcal.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\gcal.min.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\lib\\moment.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\lib\\moment.min.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale-all.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale-all.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\af.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\af.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\ar-dz.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\ar-dz.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\ar-kw.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\ar-kw.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\ar-ly.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\ar-ly.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\ar-ma.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\ar-ma.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\ar-sa.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\ar-sa.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\ar-tn.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\ar-tn.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\ar.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\ar.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\be.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\be.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\bg.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\bg.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\bs.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\bs.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\ca.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\ca.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\cs.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\cs.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\da.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\da.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\de-at.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\de-at.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\de-ch.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\de-ch.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\de.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\de.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\el.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\el.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\en-au.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\en-au.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\en-ca.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\en-ca.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\en-gb.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\en-gb.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\en-ie.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\en-ie.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\en-nz.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\en-nz.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\es-do.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\es-do.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\es-us.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\es-us.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\es.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\es.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\et.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\et.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\eu.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\eu.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\fa.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\fa.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\fi.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\fi.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\fr-ca.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\fr-ca.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\fr-ch.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\fr-ch.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\fr.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\fr.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\gl.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\gl.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\he.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\he.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\hi.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\hi.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\hr.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\hr.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\hu.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\hu.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\id.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\id.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\is.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\is.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\it.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\it.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\ja.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\ja.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\ka.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\ka.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\kk.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\kk.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\ko.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\ko.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\lb.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\lb.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\lt.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\lt.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\lv.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\lv.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\mk.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\mk.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\ms-my.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\ms-my.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\ms.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\ms.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\nb.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\nb.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\nl-be.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\nl-be.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\nl.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\nl.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\nn.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\nn.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\pl.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\pl.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\pt-br.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\pt-br.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\pt.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\pt.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\ro.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\ro.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\ru.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\ru.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\sk.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\sk.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\sl.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\sl.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\sq.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\sq.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\sr-cyrl.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\sr-cyrl.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\sr.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\sr.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\sv.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\sv.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\th.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\th.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\tr.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\tr.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\uk.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\uk.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\vi.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\vi.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\zh-cn.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\zh-cn.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\zh-hk.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\zh-hk.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\fullcalendar-3.10.0\\locale\\zh-tw.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fullcalendar-3.10.0\\locale\\zh-tw.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\jquery-ui.min.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\lightbox2\\dist\\css\\lightbox.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\lightbox2\\dist\\css\\lightbox.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\lightbox2\\dist\\images\\close.png",
+      "PackagePath": "staticwebassets\\assets\\vendor\\lightbox2\\dist\\images\\close.png"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\lightbox2\\dist\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\assets\\vendor\\lightbox2\\dist\\images\\loading.gif"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\lightbox2\\dist\\images\\next.png",
+      "PackagePath": "staticwebassets\\assets\\vendor\\lightbox2\\dist\\images\\next.png"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\lightbox2\\dist\\images\\prev.png",
+      "PackagePath": "staticwebassets\\assets\\vendor\\lightbox2\\dist\\images\\prev.png"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\lightbox2\\dist\\js\\lightbox-plus-jquery.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\lightbox2\\dist\\js\\lightbox-plus-jquery.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\lightbox2\\dist\\js\\lightbox-plus-jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\lightbox2\\dist\\js\\lightbox-plus-jquery.min.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\lightbox2\\dist\\js\\lightbox-plus-jquery.min.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\lightbox2\\dist\\js\\lightbox-plus-jquery.min.map"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\lightbox2\\dist\\js\\lightbox.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\lightbox2\\dist\\js\\lightbox.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\lightbox2\\dist\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\lightbox2\\dist\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\lightbox2\\dist\\js\\lightbox.min.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\lightbox2\\dist\\js\\lightbox.min.map"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\lightbox2\\src\\css\\lightbox.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\lightbox2\\src\\css\\lightbox.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\lightbox2\\src\\images\\close.png",
+      "PackagePath": "staticwebassets\\assets\\vendor\\lightbox2\\src\\images\\close.png"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\lightbox2\\src\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\assets\\vendor\\lightbox2\\src\\images\\loading.gif"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\lightbox2\\src\\images\\next.png",
+      "PackagePath": "staticwebassets\\assets\\vendor\\lightbox2\\src\\images\\next.png"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\lightbox2\\src\\images\\prev.png",
+      "PackagePath": "staticwebassets\\assets\\vendor\\lightbox2\\src\\images\\prev.png"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\lightbox2\\src\\js\\lightbox.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\lightbox2\\src\\js\\lightbox.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\mdi-font\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\mdi-font\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\mdi-font\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\mdi-font\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\assets\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\assets\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\perfect-scrollbar\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\perfect-scrollbar\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\progressbar\\progressbar.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\progressbar\\progressbar.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\progressbar\\progressbar.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\progressbar\\progressbar.min.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\select2\\select2.min.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\select2\\select2.min.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\slick\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\assets\\vendor\\slick\\ajax-loader.gif"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\slick\\config.rb",
+      "PackagePath": "staticwebassets\\assets\\vendor\\slick\\config.rb"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\slick\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\assets\\vendor\\slick\\fonts\\slick.eot"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\slick\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\assets\\vendor\\slick\\fonts\\slick.svg"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\slick\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendor\\slick\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\slick\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\slick\\fonts\\slick.woff"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\slick\\slick-theme.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\slick\\slick-theme.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\slick\\slick-theme.less",
+      "PackagePath": "staticwebassets\\assets\\vendor\\slick\\slick-theme.less"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\slick\\slick-theme.scss",
+      "PackagePath": "staticwebassets\\assets\\vendor\\slick\\slick-theme.scss"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\slick\\slick.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\slick\\slick.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\slick\\slick.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\slick\\slick.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\slick\\slick.less",
+      "PackagePath": "staticwebassets\\assets\\vendor\\slick\\slick.less"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\slick\\slick.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\slick\\slick.min.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\slick\\slick.scss",
+      "PackagePath": "staticwebassets\\assets\\vendor\\slick\\slick.scss"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\smk-accordion\\accordion.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\smk-accordion\\accordion.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\smk-accordion\\accordion.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\smk-accordion\\accordion.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\smk-accordion\\accordion.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\smk-accordion\\accordion.min.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\sweetalert\\sweetalert.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\sweetalert\\sweetalert.min.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\vector-map\\jquery.vmap.brazil.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\vector-map\\jquery.vmap.brazil.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\vector-map\\jquery.vmap.europe.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\vector-map\\jquery.vmap.europe.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\vector-map\\jquery.vmap.france.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\vector-map\\jquery.vmap.france.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\vector-map\\jquery.vmap.germany.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\vector-map\\jquery.vmap.germany.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\vector-map\\jquery.vmap.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\vector-map\\jquery.vmap.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\vector-map\\jquery.vmap.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\vector-map\\jquery.vmap.min.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\vector-map\\jquery.vmap.russia.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\vector-map\\jquery.vmap.russia.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\vector-map\\jquery.vmap.sampledata.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\vector-map\\jquery.vmap.sampledata.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\vector-map\\jquery.vmap.usa.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\vector-map\\jquery.vmap.usa.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\vector-map\\jquery.vmap.world.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\vector-map\\jquery.vmap.world.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\vector-map\\jqvmap.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\vector-map\\jqvmap.min.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\wow\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\wow\\animate.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\vendor\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\wow\\wow.min.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BookStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BookStore.props",
+      "PackagePath": "build\\BookStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BookStore.props",
+      "PackagePath": "buildMultiTargeting\\BookStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BookStore.props",
+      "PackagePath": "buildTransitive\\BookStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

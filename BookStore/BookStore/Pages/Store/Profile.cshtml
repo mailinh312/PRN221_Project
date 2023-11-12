@@ -1,0 +1,87 @@
+﻿@page
+@model BookStore.Pages.Store.ProfileModel
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+
+    header {
+        background-color: #333;
+        color: white;
+        text-align: center;
+        padding: 1em;
+    }
+
+    .edit-profile-form {
+        max-width: 400px;
+        margin: 2em auto;
+        padding: 1em;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    label {
+        display: block;
+        margin-bottom: 0.5em;
+    }
+
+    input {
+        width: 100%;
+        padding: 0.5em;
+        margin-bottom: 1em;
+    }
+
+    button {
+        background-color: #333;
+        color: white;
+        padding: 0.5em 1em;
+        border: none;
+        border-radius: 3px;
+        cursor: pointer;
+    }
+</style>
+
+<partial name="_SuccessNotification" model=@Model.StatusMessage />
+<div style="margin-left: 390px; margin-top: 30px">
+    <h3>Tài khoản</h3>
+</div>
+
+
+<h3>@ViewData["Title"]</h3>
+
+<div class="row">
+    <div class="col-md-6" style="margin-left: 390px">
+        <form id="profile-form" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-floating">
+                <label asp-for="Username"></label>
+                <input asp-for="Username" disabled />
+
+            </div>
+            <div>
+                <label asp-for="Input.FullName"></label>
+                <input asp-for="Input.FullName" />
+                <span asp-validation-for="Input.FullName" class="text-danger"></span>
+            </div>
+            <div>
+                <label asp-for="Input.PhoneNumber"></label>
+                <input asp-for="Input.PhoneNumber" />
+                <span asp-validation-for="Input.PhoneNumber" class="text-danger"></span>
+            </div>
+            <div>
+                <label asp-for="Input.Address"></label>
+                <input asp-for="Input.Address" />
+                <span asp-validation-for="Input.Address" class="text-danger"></span>
+            </div>
+            <button id="update-profile-button" type="submit" class="w-100 btn btn-lg btn-primary" style="margin-bottom: 50px">Save</button>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

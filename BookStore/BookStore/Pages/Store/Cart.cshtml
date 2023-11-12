@@ -1,0 +1,116 @@
+﻿@page
+@model BookStore.Pages.Store.Cart
+
+<partial name="_SuccessNotification" model=@Model.StatusMessage />
+<!-- cart -->
+<div class="cart-section mt-150 mb-150">
+    <div class="container">
+        <div class="row">
+
+            <div class="col-lg-8 col-md-12">
+
+                <div class="cart-table-wrap">
+                    <form asp-page="Cart" asp-page-handler="Update" method="post">
+                        @if (Model.cart != null)
+                        {
+                            <table class="cart-table">
+                                <thead class="cart-table-head">
+                                    <tr class="table-head-row">
+                                        <th class="product-remove"></th>
+                                        <th class="product-image">Product Image</th>
+                                        <th class="product-name">Title</th>
+                                        <th class="product-price">Price</th>
+                                        <th class="product-quantity">Quantity</th>
+                                        <th class="product-total">Total</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item in Model.cart)
+                                    {
+
+                                        <tr class="table-body-row">
+                                            <td class="product-remove"><a asp-page="Cart" asp-route-id="@item.BookId" asp-page-handler="Delete"><i class="far fa-window-close"></i></a></td>
+                                            <td class="product-image"><img src="~/Images/@item.Book.ImageUrl" alt=""></td>
+                                            <td class="product-name">@item.Book.Title</td>
+                                            <td class="product-price">@item.Book.Price</td>
+                                            <td class="product-quantity">
+                                                <input type="number" min="1" max="@item.Book.StockQuantity" value="@item.Quantity" name="quantities">
+                                            </td>
+                                            <td class="product-total">@item.Price</td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+
+                        }
+                        else
+                        {
+                            <p><strong>Không có sản phẩm nào trong giỏ hàng</strong></p>
+                        }
+
+                        <div class="cart-buttons">
+                            <button class="myButton" type="submit">Cập nhật</button>
+                        </div>
+                    </form>
+                </div>
+                <br /><br />
+                <p><strong><a asp-page="./Index">Tiếp tục mua sắm</a> </strong></p>
+
+
+            </div>
+
+            <div class="col-lg-4">
+                <div class="total-section">
+                    <table class="total-table">
+                        <thead class="total-table-head">
+                            <tr class="table-total-row">
+                                <th>Total</th>
+                                <th>Price</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+
+                            <tr class="total-data">
+                                <td><strong>Total: </strong></td>
+                                <td>@Model.Total</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <div class="cart-buttons">
+                        <a asp-page="CheckOut" class="boxed-btn black">Thanh toán</a>
+                    </div>
+                </div>
+                <div class="coupon-section">
+                    <h3>Apply Coupon</h3>
+                    <div class="coupon-form-wrap">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end cart -->
+
+<style>
+    /* CSS cho button */
+    .myButton {
+        display: inline-block;
+        padding: 10px 20px;
+        font-size: 16px;
+        text-align: center;
+        text-decoration: none;
+        cursor: pointer;
+        outline: none;
+        background-color: #F28123; /* Màu nền */
+        color: #fff; /* Màu chữ */
+        border: 1px solid #F28123; /* Đường viền */
+        border-radius: 5px; /* Độ bo tròn góc */
+        transition: background-color 0.3s; /* Hiệu ứng chuyển động màu nền */
+    }
+
+        /* CSS hover cho button */
+        .myButton:hover {
+            background-color: #212529; /* Màu nền khi hover */
+            color: #fff; /* Màu chữ khi hover */
+        }
+</style>

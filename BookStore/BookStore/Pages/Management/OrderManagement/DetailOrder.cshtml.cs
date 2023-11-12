@@ -1,4 +1,5 @@
 using BookStore.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
@@ -6,6 +7,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace BookStore.Pages.Management.OrderManagement
 {
+    [Authorize(Roles = "Administrator, Order staff")]
     public class DetailOrderModel : PageModel
     {
         private readonly BookStoreDbContext _context;

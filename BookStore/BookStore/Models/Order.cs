@@ -18,12 +18,21 @@ namespace BookStore.Models
 
         [Display(Name = "Ngày đặt hàng")]
         public DateTime? OrderDate { get; set; }
-
+        
         [Display(Name = "Người nhận")]
-        public string? Receiver { get; set; }
+        [Required(ErrorMessage ="Vui lòng nhập tên người nhận!")]
+        public string Receiver { get; set; }
 
         [Display(Name = "Địa chỉ")]
-        public string? Address { get; set; }
+        [Required(ErrorMessage = "Vui lòng nhập địa chỉ!")]
+        public string Address { get; set; }
+
+        [Display(Name = "Số điện thoại")]
+        [Required(ErrorMessage = "Vui lòng nhập số điện thoại!")]
+        public string Phone { get; set; }
+
+        [Display(Name = "Ghi chú")]
+        public string? Note{ get; set; }
 
         [Display(Name = "Tổng thanh toán")]
         public decimal? TotalPrice { get; set; }
