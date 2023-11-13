@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace BookStore.Pages.Management.Dashboard
 {
-    [Authorize(Roles = "Administrator")]
+    [Authorize(Roles = "Administrator, Order staff, Stock manager")]
     public class IndexModel : PageModel
     {
 
@@ -31,6 +31,13 @@ namespace BookStore.Pages.Management.Dashboard
         //Top 5 sản phấm bán chạy
         public List<BestSellerProduct> Top5BestSeller { get; set; }
 
+        public List<BestSellerProduct> Top5BestSellerCate { get; set; }
+
+        public List<Top3Category> Top3Category { get; set; }
+
+        //Sản phẩm sắp hết
+        public List<Book> RunOutProduct { get; set; }
+
         public IndexModel(BookStoreDbContext context, UserManager<AppUser> userManager)
         {
             _context = context;
@@ -42,6 +49,8 @@ namespace BookStore.Pages.Management.Dashboard
             numberOfAccounts = await _userManager.Users.CountAsync();
             numberOfSold = Convert.ToInt32(_context.OrderDetails.Sum(o => o.Quantity));
             totalInvestment = CalculateInvestment();
+
+            RunOutProduct = _context.Books.Where(o => o.StockQuantity <= 5).ToList();
 
             OrderDetails = _context.OrderDetails.ToList();
 
@@ -61,6 +70,18 @@ namespace BookStore.Pages.Management.Dashboard
             {
                 bestSellerProduct.Title = _context.Books.FirstOrDefault(x => x.BookId == bestSellerProduct.Id).Title;
             }
+
+            Top3Category = _context.OrderDetails.Include(od => od.Book).GroupBy(od => od.Book.CategoryId).Select(x => new Top3Category
+            {
+                CategoryId = x.Key,
+                SoldQuantity = x.Sum(od => od.Quantity)
+            }).OrderByDescending(x => x.SoldQuantity).Take(3).ToList();
+
+            foreach (var item in Top3Category)
+            {
+                item.CategoryName = _context.Categories.FirstOrDefault(x => x.CategoryId == item.CategoryId).CategoryName;
+            }
+
         }
 
         private double CalculateInterest(OrderDetail orderDetail)

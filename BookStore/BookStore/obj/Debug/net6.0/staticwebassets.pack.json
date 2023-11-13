@@ -1141,6 +1141,10 @@
       "PackagePath": "staticwebassets\\assets\\images\\icon\\logo.png"
     },
     {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\images\\logostore.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logostore.png"
+    },
+    {
       "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\js\\bootstrap-datetimepicker.js",
       "PackagePath": "staticwebassets\\assets\\js\\bootstrap-datetimepicker.js"
     },

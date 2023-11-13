@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+99IFp8R4WTFm58Wi/YwsSzbVXWsnx1LDVMopmt2uy4=",
+  "Hash": "2wzUg0oxyOkjI3TJAqFcnoN+c4zcP2ylFOTCcCMnXjY=",
   "Source": "BookStore",
   "BasePath": "_content/BookStore",
   "Mode": "Default",
@@ -2888,6 +2888,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\icon\\Untitled-1.jpg"
+    },
+    {
+      "Identity": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\images\\logostore.png",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "assets/images/logostore.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\logostore.png"
     },
     {
       "Identity": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\assets\\js\\bootstrap-datetimepicker.js",

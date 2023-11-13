@@ -32,39 +32,15 @@
                             <div class="account-wrap">
                                 <div class="account-item clearfix js-item-menu">
                                     <div class="image">
-                                        <img src="images/icon/avatar-01.jpg" alt="John Doe" />
                                     </div>
                                     <div class="content">
-                                        <a class="js-acc-btn" href="#">@UserManager.GetUserName(User)</a>
+                                        <a class="js-acc-btn" asp-page="/Account/Manage/Index">@UserManager.GetUserName(User)</a>
                                     </div>
                                     <div class="account-dropdown js-dropdown">
-                                        <div class="info clearfix">
-                                            <div class="image">
-                                                <a href="#">
-                                                    <img src="images/icon/avatar-01.jpg" alt="John Doe" />
-                                                </a>
-                                            </div>
-                                            <div class="content">
-                                                <h5 class="name">
-                                                    <a href="#">@UserManager.GetUserName(User)</a>
-                                                </h5>
-                                                <span class="email">johndoe@example.com</span>
-                                            </div>
-                                        </div>
                                         <div class="account-dropdown__body">
                                             <div class="account-dropdown__item">
-                                                <a href="#">
+                                                <a asp-area="Identity" asp-page="/Account/Manage/Index">
                                                     <i class="zmdi zmdi-account"></i>Tài khoản
-                                                </a>
-                                            </div>
-                                            <div class="account-dropdown__item">
-                                                <a href="#">
-                                                    <i class="zmdi zmdi-settings"></i>Setting
-                                                </a>
-                                            </div>
-                                            <div class="account-dropdown__item">
-                                                <a href="#">
-                                                    <i class="zmdi zmdi-money-box"></i>Billing
                                                 </a>
                                             </div>
                                         </div>
@@ -176,30 +152,30 @@
                 <div class="col-lg-6">
                     <div class="au-card recent-report">
                         <div class="au-card-inner">
-                            <h3 class="title-2">recent reports</h3>
+                            <h3 class="title-2">Nhập xuất</h3>
                             <div class="chart-info">
                                 <div class="chart-info__left">
                                     <div class="chart-note">
                                         <span class="dot dot--blue"></span>
-                                        <span>products</span>
+                                        <span>Sản phẩm nhập vào</span>
                                     </div>
                                     <div class="chart-note mr-0">
                                         <span class="dot dot--green"></span>
-                                        <span>services</span>
+                                        <span>Sản phấm bán ra</span>
                                     </div>
                                 </div>
                                 <div class="chart-info__right">
                                     <div class="chart-statis">
                                         <span class="index incre">
-                                            <i class="zmdi zmdi-long-arrow-up"></i>25%
+                                          
                                         </span>
-                                        <span class="label">products</span>
+                                       
                                     </div>
                                     <div class="chart-statis mr-0">
                                         <span class="index decre">
-                                            <i class="zmdi zmdi-long-arrow-down"></i>10%
+                                           
                                         </span>
-                                        <span class="label">services</span>
+                                        
                                     </div>
                                 </div>
                             </div>
@@ -262,46 +238,49 @@
                             </tbody>
                         </table>
                     </div>
+
+                    <h2 class="title-1 m-b-25">Sản phẩm sắp hết</h2>
+                    <div class="table-responsive table--no-card m-b-40">
+                        <table class="table table-borderless table-striped table-earning">
+                            <thead>
+                                <tr>
+                                    <th>Mã sản phẩm</th>
+                                    <th>Tên sản phẩm</th>
+                                    <th>Giá bán</th>
+                                    <th>Số lượng trong kho</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model.RunOutProduct)
+                                {
+                                    <tr>
+                                        <td>@item.BookId</td>
+                                        <td>@item.Title</td>
+                                        <td>@item.Price</td>
+                                        <td>@item.StockQuantity</td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
                 </div>
+
                 <div class="col-lg-3">
-                    <h2 class="title-1 m-b-25">Top countries</h2>
+                    <h6 class="title-1 m-b-25">Top 3 thể loại bán chạy</h6>
                     <div class="au-card au-card--bg-blue au-card-top-countries m-b-40">
                         <div class="au-card-inner">
                             <div class="table-responsive">
                                 <table class="table table-top-countries">
                                     <tbody>
-                                        <tr>
-                                            <td>United States</td>
-                                            <td class="text-right">$119,366.96</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Australia</td>
-                                            <td class="text-right">$70,261.65</td>
-                                        </tr>
-                                        <tr>
-                                            <td>United Kingdom</td>
-                                            <td class="text-right">$46,399.22</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Turkey</td>
-                                            <td class="text-right">$35,364.90</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Germany</td>
-                                            <td class="text-right">$20,366.96</td>
-                                        </tr>
-                                        <tr>
-                                            <td>France</td>
-                                            <td class="text-right">$10,366.96</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Australia</td>
-                                            <td class="text-right">$5,366.96</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Italy</td>
-                                            <td class="text-right">$1639.32</td>
-                                        </tr>
+
+                                        @foreach(var item in Model.Top3Category)
+                                        {
+                                            <tr>
+                                                <td>@item.CategoryName</td>
+                                                <td class="text-right">@item.SoldQuantity</td>
+                                            </tr>
+                                        }
+ 
                                     </tbody>
                                 </table>
                             </div>
