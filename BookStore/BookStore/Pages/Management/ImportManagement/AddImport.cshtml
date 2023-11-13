@@ -1,0 +1,164 @@
+﻿@page "/AddImport"
+@model BookStore.Pages.Management.ImportManagement.AddImportModel
+@using BookStore.Models;
+@using Microsoft.AspNetCore.Identity
+
+@inject SignInManager<AppUser> SignInManager
+@inject UserManager<AppUser> UserManager
+
+
+<partial name="_SuccessNotification" model=@Model.StatusMessage />
+<script>
+    function submitForm() {
+        var form = document.getElementById("cateForm");
+        form.submit();
+    }
+</script>
+
+<script src="~/assets/js/main.js"></script>
+
+@{
+    var pagingmodel = new BookStore.Helpers.PagingModel()
+            {
+                currentPage = Model.CurrentPage,
+                countPage = Model.CountPages,
+                generateUrl = (int? p) => Url.Page("./AddImport", new {p = p })
+            };
+}
+<!-- HEADER DESKTOP-->
+
+<header class="header-desktop">
+    <div class="section__content section__content--p30">
+        <div class="container-fluid">
+            <div class="header-wrap">
+                <form class="form-header" asp-action="AuthorManagerModel" method="get">
+                </form>
+
+                <div class="header-button">
+                    @{
+                        if (SignInManager.IsSignedIn(User))
+                        {
+                            <div class="account-wrap">
+                                <div class="account-item clearfix js-item-menu">
+                                    <div class="image">
+                                        <img src="images/icon/avatar-01.jpg" alt="John Doe" />
+                                    </div>
+                                    <div class="content">
+                                        <a class="js-acc-btn" href="#">@UserManager.GetUserName(User)</a>
+                                    </div>
+                                    <div class="account-dropdown js-dropdown">
+                                        <div class="info clearfix">
+                                            <div class="image">
+                                                <a href="#">
+                                                    <img src="images/icon/avatar-01.jpg" alt="John Doe" />
+                                                </a>
+                                            </div>
+                                            <div class="content">
+                                                <h5 class="name">
+                                                    <a href="#">@UserManager.GetUserName(User)</a>
+                                                </h5>
+                                                <span class="email">johndoe@example.com</span>
+                                            </div>
+                                        </div>
+                                        <div class="account-dropdown__body">
+                                            <div class="account-dropdown__item">
+                                                <a href="#">
+                                                    <i class="zmdi zmdi-account"></i>Account
+                                                </a>
+                                            </div>
+                                            <div class="account-dropdown__item">
+                                                <a href="#">
+                                                    <i class="zmdi zmdi-settings"></i>Setting
+                                                </a>
+                                            </div>
+                                            <div class="account-dropdown__item">
+                                                <a href="#">
+                                                    <i class="zmdi zmdi-money-box"></i>Billing
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <div class="account-dropdown__footer">
+                                            <a href="#">
+                                                <i class="zmdi zmdi-power"></i>Logout
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+<!--END HEADER DESKTOP-->
+
+<div class="section__content section__content--p30">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="title-5 m-b-35">Quản lý sản phẩm</h1>
+                <div class="table-data__tool">
+                    <div class="table-data__tool-left">
+                    </div>
+                    <div class="table-data__tool-right">
+                        <button class="au-btn au-btn-icon au-btn--green au-btn--small" style="background-color: aliceblue">
+                            <a asp-page="./AddImportDetail"> <i class="zmdi zmdi-plus"></i>Nhập thêm sản phẩm</a>
+                        </button>
+
+                    </div>
+                </div>
+                <div class="table-responsive table--no-card m-b-30">
+                    <table class="table table-borderless table-striped table-earning">
+                        <thead>
+                            <tr>
+                                <th>Tên tác sản phẩm</th>
+                                <th>Số lượng</th>
+                                <th>Giá nhập</th>
+                                <th>Giá bán</th>
+                                <th>Tổng</th>
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @{
+                                if (Model.ImportDetails != null)
+                                {
+                                    @foreach (var importDetail in Model.ImportDetails)
+                                    {
+                                        <tr>
+                                            <td>@importDetail.Book.Title</td>
+                                            <td>@importDetail.Quantity</td>
+                                            <td>@importDetail.InputPrice</td>
+                                            <td>@importDetail.OutputPrice</td>
+                                            <td>@importDetail.TotalPrice</td>
+                                            <td>
+                                                <div class="table-data-feature">
+                                                    <button class="item" data-toggle="tooltip" data-placement="top" title="">
+                                                        <a asp-page="AddImport"><i class="zmdi zmdi-edit"></i></a>
+                                                    </button>
+                                                    <button class="item" data-toggle="tooltip" data-placement="top" title="Xóa">
+                                                        <i class="zmdi zmdi-delete"></i>
+                                                    </button>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    }
+                                }
+                            }
+                        </tbody>
+                    </table>                  
+                </div>
+                
+                <form asp-page="AddImport" method="post">
+                    <input type="submit" value="Xác nhận nhập hàng" class="btn btn-success btn-sm" />
+                </form>
+                <br/>
+
+                <partial name="_paging" model="@pagingmodel"></partial>
+            </div>
+        </div>
+    </div>
+</div>
+

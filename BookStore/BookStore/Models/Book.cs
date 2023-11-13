@@ -17,6 +17,7 @@ namespace BookStore.Models
         public decimal? OriginPrice { get; set; }
 
         [Display(Name = "Giá")]
+        [Required(ErrorMessage = "Giá sản phẩm không được để trống!")]
         public decimal? Price { get; set; }
 
         public int? AuthorId { get; set; }
@@ -25,15 +26,19 @@ namespace BookStore.Models
         public string? Description { get; set; }
 
         [Display(Name = "Nhà xuất bản")]
+        [Required(ErrorMessage = "Nhà xuất bản không được để trống!")]
         public string? Publisher { get; set; }
 
+        [Required(ErrorMessage = "Ngày xuất bản không được để trống!")]
         [Display(Name = "Ngày xuất bản")]
         public DateTime? PublishDate { get; set; }
 
         [Display(Name = "Số lượng")]
+        [Required(ErrorMessage = "Số lượng trong kho không được để trống!")]
         public int? StockQuantity { get; set; }
 
         [Display(Name = "Link ảnh")]
+        [Required(ErrorMessage = "Chọn ảnh sản phẩm!")]
         public string? ImageUrl { get; set; }
 
         [Display(Name = "Hoạt động")]

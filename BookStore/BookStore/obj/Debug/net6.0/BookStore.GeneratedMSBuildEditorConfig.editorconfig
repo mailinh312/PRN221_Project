@@ -268,6 +268,22 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlbWVudFxEYXNoYm9hcmRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Pages/Management/ImportManagement/AddImport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlbWVudFxJbXBvcnRNYW5hZ2VtZW50XEFkZEltcG9ydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Pages/Management/ImportManagement/AddImportDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlbWVudFxJbXBvcnRNYW5hZ2VtZW50XEFkZEltcG9ydERldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Pages/Management/ImportManagement/DetailImport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlbWVudFxJbXBvcnRNYW5hZ2VtZW50XERldGFpbEltcG9ydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Pages/Management/ImportManagement/ImportManager.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlbWVudFxJbXBvcnRNYW5hZ2VtZW50XEltcG9ydE1hbmFnZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/Documents/PRN221/PRN221_Project/BookStore/BookStore/Pages/Management/OrderManagement/DetailOrder.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlbWVudFxPcmRlck1hbmFnZW1lbnRcRGV0YWlsT3JkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

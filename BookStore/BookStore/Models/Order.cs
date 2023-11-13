@@ -17,7 +17,7 @@ namespace BookStore.Models
         public String? UserId { get; set; }
 
         [Display(Name = "Ngày đặt hàng")]
-        public DateTime? OrderDate { get; set; }
+        public DateTime OrderDate { get; set; }
         
         [Display(Name = "Người nhận")]
         [Required(ErrorMessage ="Vui lòng nhập tên người nhận!")]

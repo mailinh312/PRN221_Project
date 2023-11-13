@@ -108,8 +108,9 @@ namespace BookStore.Pages.Store
 			Books = Books.Skip((CurrentPage - 1) * 12).Take(ITEMS_PER_PAGE).ToList();
 		}
 
-		public IActionResult OnGetAddToCart(string productId, int number, string search)
+		public IActionResult OnGetAddToCart(string productId, int number, string search, int currentPage)
 		{
+			CurrentPage = currentPage;
 
 			Book book = new Book();
 

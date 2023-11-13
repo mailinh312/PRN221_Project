@@ -75,7 +75,7 @@ namespace BookStore.Pages.Store
 						OrderDetail od = new OrderDetail();
 						od.BookId = Convert.ToInt32(productId);
 						od.Book = book;
-						od.Quantity = 1;
+						od.Quantity = number;
 						od.Price = od.Book.Price * od.Quantity;
 						cart.Add(od);
 						HttpContext.Session.SetObjectAsJson("cart", cart);

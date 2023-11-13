@@ -1,4 +1,5 @@
 ﻿using BookStore.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
@@ -6,6 +7,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace BookStore.Pages.Store
 {
+    [Authorize(Roles = "Administrator, Stock manager, Order staff, Customer")]
     public class ProfileModel : PageModel
     {
         private readonly UserManager<AppUser> _userManager;

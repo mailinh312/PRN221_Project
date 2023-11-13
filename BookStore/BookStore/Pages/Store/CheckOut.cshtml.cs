@@ -1,11 +1,13 @@
 ﻿using BookStore.Helpers;
 using BookStore.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace BookStore.Pages.Store
 {
+    [Authorize(Roles = "Administrator, Stock manager, Order staff, Customer")]
     public class CheckOutModel : PageModel
     {
         private readonly BookStoreDbContext _context;
@@ -88,6 +90,10 @@ namespace BookStore.Pages.Store
                 od.OrderId = orderId;
                 od.Price = od.Book.Price * od.Quantity;
                 od.Book = null;
+                Book book = _context.Books.FirstOrDefault(x => x.BookId == od.BookId);
+                book.StockQuantity -= od.Quantity;
+                _context.Books.Update(book);
+                _context.SaveChanges(true);
                 _context.OrderDetails.Add(od);
                 _context.SaveChanges();
             }

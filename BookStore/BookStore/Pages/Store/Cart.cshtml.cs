@@ -1,12 +1,14 @@
 ﻿using BookStore.Helpers;
 using BookStore.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.CodeAnalysis;
 
 namespace BookStore.Pages.Store
 {
-	public class Cart : PageModel
+    [Authorize(Roles = "Administrator, Stock manager, Order staff, Customer")]
+    public class Cart : PageModel
 	{
 		private readonly BookStoreDbContext _context;
 		public List<OrderDetail> cart { get; set; }
