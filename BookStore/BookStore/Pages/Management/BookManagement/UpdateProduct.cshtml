@@ -105,6 +105,12 @@
                         <br />
 
                         <div class="form-group">
+                            <label asp-for="UpdateBook.OriginPrice" class="control-label"></label>
+                            <input asp-for="UpdateBook.OriginPrice" class="form-control" />
+                            <span asp-validation-for="UpdateBook.OriginPrice" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
                             <label asp-for="UpdateBook.Price" class="control-label"></label>
                             <input asp-for="UpdateBook.Price" class="form-control" />
                             <span asp-validation-for="UpdateBook.Price" class="text-danger"></span>
@@ -130,9 +136,9 @@
                         </div>
 
                         <div class="form-group">
-                            <label asp-for="FileUploads" class="control-label"></label>
-                            <input asp-for="FileUploads" class="form-control" />
-                            <span asp-validation-for="FileUploads" class="text-danger"></span>
+                            <label asp-for="FileUpload" class="control-label"></label>
+                            <input asp-for="FileUpload" class="form-control"/>
+                            
                         </div>
 
                         <div class="form-group">

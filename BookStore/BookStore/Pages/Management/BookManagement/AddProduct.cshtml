@@ -62,7 +62,7 @@
                 <h1 class="title-5 m-b-35">Thêm sản phẩm</h1>
 
                 <div class="table-responsive table--no-card m-b-30">
-                    <form method="post" asp-action="AddProductModel" enctype="multipart/form-data">
+                    <form method="post" asp-action="AddProduct" enctype="multipart/form-data">
                         <div asp-validation-summary="ModelOnly" class="text-danger"></div>
                         <div class="form-group">
                             <label asp-for="NewBook.Title" class="control-label"></label>
@@ -99,6 +99,12 @@
                         <br />
 
                         <div class="form-group">
+                            <label asp-for="NewBook.OriginPrice" class="control-label"></label>
+                            <input asp-for="NewBook.OriginPrice" class="form-control" />
+                            <span asp-validation-for="NewBook.OriginPrice" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
                             <label asp-for="NewBook.Price" class="control-label"></label>
                             <input asp-for="NewBook.Price" class="form-control" />
                             <span asp-validation-for="NewBook.Price" class="text-danger"></span>
@@ -124,9 +130,9 @@
                         </div>
 
                         <div class="form-group">
-                            <label asp-for="FileUploads" class="control-label"></label>
-                            <input asp-for="FileUploads" class="form-control" />
-                            <span asp-validation-for="FileUploads" class="text-danger"></span>
+                            <label asp-for="FileUpload" class="control-label"></label>
+                            <input asp-for="FileUpload" class="form-control" />
+                            <span asp-validation-for="FileUpload" class="text-danger"></span>
                         </div>
 
                         <div class="form-group">

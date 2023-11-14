@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2wzUg0oxyOkjI3TJAqFcnoN+c4zcP2ylFOTCcCMnXjY=",
+  "Hash": "6ieJoge53GV0QoigqNzeTr9xzTk55AvVLokyhipuSt8=",
   "Source": "BookStore",
   "BasePath": "_content/BookStore",
   "Mode": "Default",
@@ -8260,6 +8260,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\325481532_5844128622319023_5659837953065521414_n.jpg"
+    },
+    {
+      "Identity": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\anhbia.jpg",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "Images/anhbia.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\anhbia.jpg"
     },
     {
       "Identity": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_1.jpg",

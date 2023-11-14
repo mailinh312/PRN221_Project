@@ -465,6 +465,10 @@
       "PackagePath": "staticwebassets\\Images\\Item 3-1.png.png"
     },
     {
+      "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\anhbia.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhbia.jpg"
+    },
+    {
       "Id": "E:\\Documents\\PRN221\\PRN221_Project\\BookStore\\BookStore\\wwwroot\\Images\\book_1.jpg",
       "PackagePath": "staticwebassets\\Images\\book_1.jpg"
     },

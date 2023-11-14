@@ -14,8 +14,8 @@ namespace BookStore.Pages.Management.BookManagement
 
         [TempData]
         public string StatusMessage { get; set; }
+        private readonly IWebHostEnvironment _environment;
 
-        private IHostEnvironment _environment;
         public List<Category> Categories { get; set; }
         public List<Book> Books { get; set; }
         public List<Author> Authors { get; set; }
@@ -29,16 +29,15 @@ namespace BookStore.Pages.Management.BookManagement
         [Display(Name = "Chọn ảnh sản phẩm")]
 
         [BindProperty]
-        public IFormFile[] FileUploads { get; set; }
+        public IFormFile FileUpload { get; set; }
 
-        public AddProductModel(BookStoreDbContext context, IHostEnvironment hostEnvironment)
+        public AddProductModel(BookStoreDbContext context, IWebHostEnvironment hostEnvironment)
         {
             _context = context;
             _environment = hostEnvironment;
-            FileUploads = new IFormFile[5];
         }
 
-        public void OnGet(IFormFile formFile)
+        public void OnGet()
         {
             Categories = _context.Categories.ToList();
             Authors = _context.Authors.ToList();
@@ -54,17 +53,15 @@ namespace BookStore.Pages.Management.BookManagement
             if (ModelState.IsValid)
             {
                 String imgURL = "";
-                if (FileUploads != null)
+                if (FileUpload != null)
                 {
-                    foreach (var FileUpload in FileUploads)
-                    {
-                        imgURL = FileUpload.FileName;
-                        var file = Path.Combine(_environment.ContentRootPath, "E:\\Documents\\PRN221\\BookStore\\BookStore\\wwwroot\\Images\\", FileUpload.FileName);
 
-                        using (var fileStrean = new FileStream(file, FileMode.Create))
-                        {
-                            FileUpload.CopyTo(fileStrean);
-                        }
+                    imgURL = FileUpload.FileName;
+                    var file = Path.Combine(_environment.WebRootPath, "Images", FileUpload.FileName);
+
+                    using (var fileStrean = new FileStream(file, FileMode.Create))
+                    {
+                        FileUpload.CopyTo(fileStrean);
                     }
                 }
 

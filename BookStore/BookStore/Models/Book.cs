@@ -38,7 +38,6 @@ namespace BookStore.Models
         public int? StockQuantity { get; set; }
 
         [Display(Name = "Link ảnh")]
-        [Required(ErrorMessage = "Chọn ảnh sản phẩm!")]
         public string? ImageUrl { get; set; }
 
         [Display(Name = "Hoạt động")]
